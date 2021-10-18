@@ -1,0 +1,110 @@
+*{
+    background-color: rgb(207, 207, 187);
+    margin-right: 40px;
+    margin-left: 40px;
+}
+h1{
+    text-align: center;
+    font-size: 42px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(61, 61, 44);
+    color: white;
+    position: fixed;
+    top: 0%;
+    width: 70%;
+}
+img{
+    width: 450px;
+    float: right;
+    margin-left: 3%;
+}
+.p-uno{
+    margin-top: 10%;
+}
+table{
+    text-align: center;
+    font-size: 14px;
+    border: rgb(61, 61, 44) solid;
+    border-width: 5px;
+}
+th{
+    color: white;
+    background-color: rgb(92, 92, 66);
+    border: rgb(61, 61, 44) solid;
+    border-width: 5px;
+}
+td{
+    color: black;
+    background-color: rgb(221, 216, 148);
+    border: rgb(61, 61, 44) solid;
+    border-width: 5px;
+}
+p, li, th, td{
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+h3{
+    font-size: 19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(92, 92, 66);
+    color: white;
+    text-align: center;
+}
+.img1, .img2{
+    width: 355px;
+    float: left;
+}
+h2{
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(61, 61, 44);
+    color: white;
+    text-align: center;
+}
+.div1{
+    margin-left: 2%;
+}
+h4{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(180, 180, 136);
+    color: black;
+}
+h5{
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+.dos-p{
+    margin-top: 3%;
+}
+form{
+    width: 50%;
+    margin: 20px;
+    padding: 20px;
+}
+label{
+    display: block;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(180, 180, 136);
+    color: black;
+    margin: 2%;
+    width: 101%;
+}
+input, textarea{
+    background-color: rgb(235, 222, 222);
+    width: 100%;
+    border: 2px rgb(148, 134, 108) solid;
+    display: block;
+    margin: 2%;
+}
+input:focus{
+    border: 2px solid rgb(42, 83, 51);;
+}
+i{
+    margin: auto;
+    font-size: 70%;
+    color: rgb(44, 44, 36);
+}
